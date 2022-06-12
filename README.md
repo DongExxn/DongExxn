@@ -6,8 +6,8 @@
 🔵 메인페이지
 ![image](https://user-images.githubusercontent.com/98999882/173227367-9efa0fc6-2b2d-4b85-a638-706903eca387.png)
 🟣 로그인페이지
-![image](https://user-images.githubusercontent.com/98999882/173227595-8b176101-346c-403c-8045-f43c86b7724f.png)
+![image](https://user-images.githubusercontent.com/98999882/173239776-cad61b81-5bec-41b1-bf27-7dd10d2a7b00.png)
 🔘 회원가입페이지
-![image](https://user-images.githubusercontent.com/98999882/173227401-dfa70254-7c4f-475b-836f-300d8fdbb3f9.png)
+![image](https://user-images.githubusercontent.com/98999882/173239853-11fc1510-e707-4e3a-9ae2-4352ab7c0102.png)
 ___
 Click [JavaScript, HTML 스터디 내용 정리](https://www.notion.so/Java-Script-a65ee3eaf1b04d11ad712dc7caca7ceb)
