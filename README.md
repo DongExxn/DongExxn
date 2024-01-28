@@ -37,7 +37,7 @@ If you want to contact me, please leave me a message!-->
 
 <br/>  
 
-
+<!--
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -48,6 +48,7 @@ If you want to contact me, please leave me a message!-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongExxn&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+-->
 
 <br/>  
 
