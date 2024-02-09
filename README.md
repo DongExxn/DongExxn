@@ -20,7 +20,7 @@ If you want to contact me, please leave me a message!-->
 <br/>
 
 ### 💫 Experience
-- **데버 주식회사** - 학부 인턴, Front-end Developer *(Jul 2023 - Dec 2023)*
+- **데버 주식회사** - 스타트업 인턴, Front-end Developer *(Jul 2023 - Dec 2023)*
 - **한이음** - 한이음 공모전 입선, 교내 모각소 프로그램 최우수상, Front-end Developer *(Jan 2022 - Nov 2022)*
 - **금천교육복지센터 멘토** - 멘토 감사패 수상, 코딩・수학・영어 멘토링 진행 *(Jul 2022 - Oct 2023)*
 
